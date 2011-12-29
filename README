@@ -1,0 +1,14 @@
+Owner: Ryan Kwong
+UCR CS153 - Operating Systems
+
+Contains three projects.
+
+1) Observer
+	- Parses certain /proc's for information with C++
+
+2) Terminal
+	- Implemenation of a terminal with C++
+
+3) Threads and Monitors
+	- Implementation of thread safety with C++
+

@@ -1,0 +1,46 @@
+=======================================================
+                       Readme File
+=======================================================
+
+			Author
+
+ - Ryan Kwong
+ - kwongr
+ - 860889552
+
+-------------------------------------------------------
+
+
+		Configuration Requirements
+
+- UCR CS Server with Linux
+
+-------------------------------------------------------
+
+		Compiling Instructions
+
+A makefile is provided with the source code.
+
+Commands: make, make clean
+
+- To compile: type 'make'
+- To clean all unnecessary files: type 'make clean'
+
+You may also use g++.
+
+- To compile with g++: type 'g++ observer.cpp'
+
+-------------------------------------------------------
+
+		Operating Instructions
+
+- type ' a.out "period" "interval" ' without the quotes
+
+where "period" and "interval" are integers values.
+
+-------------------------------------------------------
+
+		Program Objective
+
+- To print out the kernel's states for given interval 
+  and period
